@@ -30,28 +30,29 @@ Neste Projeto desenvolvo uma aplicação em NestJS com PostgreSQL e GraphQL onde
 
 ## Tecnologias
 
-- NestJS
-- Prisma
-- GraphQL
-- TypeGraphQL
-- Docker
+-   NestJS
+-   Prisma
+-   GraphQL
+-   TypeGraphQL
+-   Docker
+-   PostgreSQL
 
 ## Instalação
 
-- Para criar o projeto:
+-   Para criar o projeto:
 
 ```bash
 $ nest cd book
 ```
 
-- Instale as seguintes dependências no projeto.
+-   Instale as seguintes dependências no projeto.
 
 ```bash
 npm install -D prisma
 
 ```
 
-- Execute as migrations
+-   Execute as migrations
 
 ```bash
 npx prisma migrate dev
@@ -65,11 +66,12 @@ npm run start
 
 ## Documentação
 
-- [NestJS](https://docs.nestjs.com)
-- [Prisma](https://www.prisma.io/docs)
-- [Docker](https://docs.docker.com)
-- [GraphQL](https://graphql.org/)
-- [TypeGrapQL](https://typegraphql.com/)
+-   [NestJS](https://docs.nestjs.com)
+-   [Prisma](https://www.prisma.io/docs)
+-   [Docker](https://docs.docker.com)
+-   [GraphQL](https://graphql.org/)
+-   [TypeGrapQL](https://typegraphql.com/)
+-   [PostgreSQL](https://www.postgresql.org/)
 
 ## Endpoint
 
